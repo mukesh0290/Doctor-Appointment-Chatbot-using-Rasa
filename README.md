@@ -2,7 +2,7 @@
 It Schedules Doctor Appointment using Rasa Framework, Data is collected from Hubli and Dharwad cities karnataka.
 The data colleted is Real time data and bot helps in booking for appointment in Tier II cities.
 
-# Following is the conversation flow between USer and Bot
+# Following is the conversation flow between User and Bot
 
 user:Hi bot
 
