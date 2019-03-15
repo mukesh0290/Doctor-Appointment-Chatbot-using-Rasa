@@ -1,0 +1,4314 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "stop",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "end",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "have a good day",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good afternoon",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good evening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "aloha",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "\"ay boi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "yo",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "sup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hiya",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around?",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "wass up",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "greetings",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "yo Mr. Bot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "cu",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good by",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "cee you later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good night",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "have a nice day",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "see you around",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "see you later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Bye bot",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Goodbye friend",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "bye for now",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "catch you later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "gotta go",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "See you",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "i'm off",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "we'll speak soon",
+        "intent": "goodbye",
+        "entities": []
+      },
+      
+      {
+        "text": "Hey bot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi again",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi folks",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi Mister",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi pal!",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello robot",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello is anybody there",
+        "intent": "greet",
+        "entities": []
+      },{
+				"text": "heading out goodbye chao chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl farewell chao heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl farewell chau heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adieu adieu farewell talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adios adios goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go gtg ttyl chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios farewell goodbye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adieu adios goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios adios farewell got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving chau chao chau going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out goodbye adios chau talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu farewell gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adios ttyl farewell talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later farewell ttyl ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adieu adieu farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios ttyl farewell got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau adios ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving goodbye ttyl adios got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go gtg ttyl ttyl have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go ttyl gtg farewell going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu chao goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios chao goodbye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye adios ttyl have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "gtg ttyl adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving goodbye adieu farewell heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving goodbye chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later farewell chau farewell leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios adieu goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "ttyl gtg goodbye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving farewell ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving bye adios adios leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go adieu gtg chau talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go gtg bye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios chau adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao bye farewell talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu gtg goodbye have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu goodbye bye",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out gtg chao",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios adieu ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adieu farewell ttyl got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios bye gtg heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg ttyl adieu talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now goodbye chao adios talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adieu adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios chao gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving farewell chau ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adios farewell adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg adios goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon goodbye adieu chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adios chao gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios farewell gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios bye ttyl heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving chau farewell chau got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon gtg ttyl goodbye have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye farewell farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl chao talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye gtg chao",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau chau ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios adieu gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go adieu gtg ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios farewell chau im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg chao ttyl",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go bye ttyl chau going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go gtg chau farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu adios talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chau ttyl leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu ttyl got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios gtg bye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell chau farewell leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu farewell chau have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu adios gtg have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chau goodbye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao bye bye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye adieu bye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye adios going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adios ttyl bye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau gtg gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now gtg farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell adieu talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out goodbye goodbye chao talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go ttyl adios heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu chau bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon farewell ttyl adios have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out gtg bye chau have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao ttyl bye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving gtg ttyl heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now farewell gtg chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye adieu chau heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later goodbye adios farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go adieu gtg adios talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau goodbye ttyl leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adios chau goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao gtg bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon bye bye adios got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go adieu bye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu ttyl chau im leaving now",
+				"intent": "bye",
+				"entities": []
+			},{
+				"text": "talk to you soon ttyl bye farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao farewell chao heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao adios talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau goodbye goodbye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later chau adios chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios adieu chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell chao chau leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out goodbye gtg gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "farewell ttyl going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chau gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chau chao going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu bye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao chau adios talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu gtg gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl goodbye chau got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chau gtg goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later farewell goodbye farewell going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving gtg chau chau talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon goodbye gtg ttyl going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg bye adios im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao ttyl adios going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau bye goodbye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later chao ttyl chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chau ttyl goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go bye gtg goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving farewell gtg adieu going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu chao gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go ttyl goodbye adieu im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon farewell chao farewell have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out gtg bye ttyl leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu chau bye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out goodbye goodbye chau talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later ttyl bye adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu adieu ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving bye bye bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon farewell adios adieu heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao adios heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao farewell chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye goodbye goodbye",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu adieu leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye gtg gtg got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "bye adieu adios leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios gtg chau got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now chau goodbye ttyl",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go farewell goodbye ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl gtg adieu",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau ttyl chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao adios farewell leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later ttyl farewell chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye chao goodbye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye goodbye goodbye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell gtg gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out ttyl adieu ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving bye farewell chau im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao farewell adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios adios gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "bye goodbye bye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg chao ttyl going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg chao farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later bye chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios chau farewell talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go gtg adios chao going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios gtg chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye chao farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chau chau ttyl have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now gtg adieu bye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later bye farewell adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon gtg chao adieu",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go adieu farewell adios got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon goodbye talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now ttyl chao chau talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg bye adieu going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu goodbye chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chao ttyl adios leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios gtg adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon bye chao chao heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu ttyl adios talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now ttyl adieu chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg bye bye have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "chao bye goodbye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out bye adios gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adios adios ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving chau farewell chao talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu gtg farewell going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out ttyl bye adieu talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now ttyl chao ttyl",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu bye adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adios adios chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out goodbye goodbye talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out farewell ttyl adieu have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go gtg ttyl adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go bye adios bye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out goodbye bye farewell heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu adieu goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu adios farewell got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			},{
+				"text": "affirmative affirmative affirmative si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes affirmative affirmative yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok correcto yes to that right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yes to that yes to that ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yes ok yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes si correct correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir correcto right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok yes yep yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si right right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes right correct yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep right correcto affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes allright right yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright correct yes",
+				"intent": "affirm",
+				"entities": []
+			},{
+				"text": "at Hubli",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 8,
+						"entity": "city",
+						"start": 3,
+						"value": "Hubli"
+					}
+				]
+			}, {
+				"text": "Hubli",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 5,
+						"entity": "city",
+						"start": 0,
+						"value": "Hubli"
+					}
+				]
+			},{
+				"text": "Dharwar",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 7,
+						"entity": "city",
+						"start": 0,
+						"value": "Dharwar"
+					}
+				]
+			}, {
+				"text": "at Dharwad",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 10,
+						"entity": "city",
+						"start": 3,
+						"value": "Dharwad"
+					}
+				]
+			},{
+				"text": "to Dharwad",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 10,
+						"entity": "city",
+						"start": 3,
+						"value": "Dharwad"
+					}
+				]
+			},{
+				"text": "in Dharwad",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 10,
+						"entity": "city",
+						"start": 3,
+						"value": "Dharwad"
+					}
+				]
+			},{
+				"text": "Hubli",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 5,
+						"entity": "city",
+						"start": 0,
+						"value": "Hubli"
+					}
+				]
+			},{
+				"text": "in Hubli",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 8,
+						"entity": "city",
+						"start": 3,
+						"value": "Hubli"
+					}
+				]
+			},{
+				"text": "Saturday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 8,
+						"entity": "date",
+						"start": 0,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "on Tuesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 10,
+						"entity": "date",
+						"start": 3,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "on Wednesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 12,
+						"entity": "date",
+						"start": 3,
+						"value": "Wednesday"
+					}
+				]
+			}, {
+				"text": "Tuesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 7,
+						"entity": "date",
+						"start": 0,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "Wednesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 0,
+						"value": "Wednesday"
+					}
+				]
+			}, {
+				"text": "Sunday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 6,
+						"entity": "date",
+						"start": 0,
+						"value": "Sunday"
+					}
+				]
+			}, {
+				"text": "on Monday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Monday"
+					}
+				]
+			},{
+				"text": "on Saturday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 11,
+						"entity": "date",
+						"start": 3,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "Monday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 6,
+						"entity": "date",
+						"start": 0,
+						"value": "Monday"
+					}
+				]
+			}, {
+				"text": "Friday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 6,
+						"entity": "date",
+						"start": 0,
+						"value": "Friday"
+					}
+				]
+			}, {
+				"text": "on Friday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Friday"
+					}
+				]
+			}, {
+				"text": "on Thursday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 11,
+						"entity": "date",
+						"start": 3,
+						"value": "Thursday"
+					}
+				]
+			}, {
+				"text": "on Sunday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Sunday"
+					}
+				]
+			}, {
+				"text": "Thursday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 8,
+						"entity": "date",
+						"start": 0,
+						"value": "Thursday"
+					}
+				]
+			},{
+				"text": "Tuesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 7,
+						"entity": "date",
+						"start": 0,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "on saturday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 11,
+						"entity": "date",
+						"start": 3,
+						"value": "saturday"
+					}
+				]
+			}, {
+				"text": "wednesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 0,
+						"value": "wednesday"
+					}
+				]
+			}, {
+				"text": "Thursday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 8,
+						"entity": "date",
+						"start": 0,
+						"value": "Thursday"
+					}
+				]
+			}, {
+				"text": "Saturday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 8,
+						"entity": "date",
+						"start": 0,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "on sunday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "sunday"
+					}
+				]
+			}, {
+				"text": "on Monday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Monday"
+					}
+				]
+			},{
+				"text": "12:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "07:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "09:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "09:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "at 09:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "at 12:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "11:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "at 01:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "01:00 pm"
+					}
+				]
+			}, {
+				"text": "06:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "10:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "10:00 am"
+					}
+				]
+			},{
+				"text": "08:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "at 06:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "at 08:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "11:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "at 10:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "09:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "at 09:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "at 12:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "07:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "at 11:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "11:00 am"
+					}
+				]
+			},{
+				"text": "10:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "at 09:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "09:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "at 07:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "06:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "12:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "12:00 am"
+					}
+				]
+			},{
+				"text": "I'd like to request an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 23,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "want to set up an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 18,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "please make meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 12,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "could you please create apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 24,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please schedule consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 38,
+						"entity": "appointment",
+						"start": 26,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please schedule apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 26,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you create apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 18,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you setup apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 18,
+						"entity": "appointment",
+						"start": 14,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "I'd like to book meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 17,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you create an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "want to request an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 19,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please request an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 18,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "could you please schedule apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 26,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please make an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 15,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you setup an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 17,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to make apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 16,
+						"entity": "appointment",
+						"start": 13,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you make an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to schedule an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 24,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please book appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 12,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "want to make apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 17,
+						"entity": "appointment",
+						"start": 13,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you request an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 19,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please book appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 33,
+						"entity": "appointment",
+						"start": 22,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you make an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please request an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "I'd like to book an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 20,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to make an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you request an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 19,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "would you schedule meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 19,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you create appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 17,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "please schedule meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to request an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 19,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "please book an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 15,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "I'd like to setup consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 18,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you request consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 16,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please request appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 36,
+						"entity": "appointment",
+						"start": 25,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "could you please schedule an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 40,
+						"entity": "appointment",
+						"start": 29,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "could you please create an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 38,
+						"entity": "appointment",
+						"start": 27,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "can you book meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 13,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please set up an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 17,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "I'd like to setup an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 21,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "would you setup meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "could you please set up an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 39,
+						"entity": "appointment",
+						"start": 27,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please setup an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 37,
+						"entity": "appointment",
+						"start": 26,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you setup an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 19,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please request apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you create an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 18,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please setup apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 23,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please book apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 22,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please book consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 12,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "I'd like to request apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "would you setup apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to request meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 20,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "could you please setup an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 38,
+						"entity": "appointment",
+						"start": 26,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "would you book an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please set up an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 17,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "please book meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 12,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please set up an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 17,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you make an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "would you schedule an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 22,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please create consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 14,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you setup consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 14,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you make apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 17,
+						"entity": "appointment",
+						"start": 13,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "want to book apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 16,
+						"entity": "appointment",
+						"start": 13,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "would you make apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 18,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "would you book consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 15,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you create an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 18,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "could you please request an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 28,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you book appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 13,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you book apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 18,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to set up an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please schedule apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to make an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you request consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 18,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you schedule an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "would you create meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 17,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to schedule an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 20,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "please request meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 15,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you schedule consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 19,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "want to book an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 16,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you make appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 15,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "want to schedule meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 17,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "could you please request an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 40,
+						"entity": "appointment",
+						"start": 28,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you setup apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 17,
+						"entity": "appointment",
+						"start": 14,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please schedule an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 19,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to setup an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 17,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "want to create an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 18,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "can you make an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you make consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 13,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "I'd like to schedule apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 21,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please make appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 12,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "could you please make apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 22,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to schedule an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please create meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 14,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you book an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 16,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "I'd like to create an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 34,
+						"entity": "appointment",
+						"start": 22,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "I'd like to setup meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to request appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 20,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "I'd like to setup apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please request apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 25,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to setup consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 14,
+						"value": "consultation"
+					}
+				]
+			},{
+				"text": "please schedule apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "I'd like to create meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 19,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "could you please make consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 34,
+						"entity": "appointment",
+						"start": 22,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "I'd like to setup appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 18,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you set up an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 20,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please book apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 15,
+						"entity": "appointment",
+						"start": 12,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "would you book an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 18,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "can you request appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 16,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "want to setup apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 18,
+						"entity": "appointment",
+						"start": 14,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "want to create an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to make an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "would you set up an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 20,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you request apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to make an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 16,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "could you please book meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 22,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please request consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 15,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "would you schedule apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 19,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please setup apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 17,
+						"entity": "appointment",
+						"start": 13,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you create an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to book consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 13,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "please create apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 17,
+						"entity": "appointment",
+						"start": 14,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please schedule an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 29,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "want to request meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please book an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you setup meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 14,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you book an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to request consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 16,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please set up an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 34,
+						"entity": "appointment",
+						"start": 27,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to schedule an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 20,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please request an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to schedule consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 17,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please setup meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 23,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "could you please book apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 22,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please make an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 15,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you create an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please book an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 18,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you setup an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 17,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "I'd like to create an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 22,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please request an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to create apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 19,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to request an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 34,
+						"entity": "appointment",
+						"start": 23,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "please setup apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 16,
+						"entity": "appointment",
+						"start": 13,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please create an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 17,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "can you request meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 16,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to make apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 17,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "want to setup an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 17,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you setup an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 17,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "want to book an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please schedule meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 33,
+						"entity": "appointment",
+						"start": 26,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "please setup an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 16,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "can you schedule an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 20,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you set up an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please setup consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 13,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "want to book an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 28,
+						"entity": "appointment",
+						"start": 16,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "would you request apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please set up an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 17,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please create an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 17,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "would you setup appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 16,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "please make an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 15,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "would you create an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 20,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "would you request an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 21,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "please make apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 16,
+						"entity": "appointment",
+						"start": 12,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "could you please book an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 25,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to schedule an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 36,
+						"entity": "appointment",
+						"start": 24,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you request apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to book apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 17,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "could you please request an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 35,
+						"entity": "appointment",
+						"start": 28,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to setup meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 14,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "want to set up an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 18,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "want to setup an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 17,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to set up an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 22,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to setup apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 22,
+						"entity": "appointment",
+						"start": 18,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "could you please make an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 25,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you schedule an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 22,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you schedule consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 29,
+						"entity": "appointment",
+						"start": 17,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you schedule an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 20,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "would you setup an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 19,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please setup consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 35,
+						"entity": "appointment",
+						"start": 23,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "can you set up an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you request meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 18,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to request an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 23,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to book an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 20,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "want to setup appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 25,
+						"entity": "appointment",
+						"start": 14,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "I'd like to make an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 20,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "I'd like to book apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 21,
+						"entity": "appointment",
+						"start": 17,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "can you set up an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 30,
+						"entity": "appointment",
+						"start": 18,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "would you set up an apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 23,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "I'd like to create an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 26,
+						"entity": "appointment",
+						"start": 22,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "I'd like to schedule appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 32,
+						"entity": "appointment",
+						"start": 21,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "want to book meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 13,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you schedule meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 17,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "I'd like to make an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 20,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "would you create an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 31,
+						"entity": "appointment",
+						"start": 20,
+						"value": "appointment"
+					}
+				]
+			}, {
+				"text": "want to setup apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 17,
+						"entity": "appointment",
+						"start": 14,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "can you book an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 20,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "I'd like to book an apt. with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 24,
+						"entity": "appointment",
+						"start": 20,
+						"value": "apt."
+					}
+				]
+			}, {
+				"text": "want to request apt with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 19,
+						"entity": "appointment",
+						"start": 16,
+						"value": "apt"
+					}
+				]
+			}, {
+				"text": "please book an consultation with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 15,
+						"value": "consultation"
+					}
+				]
+			}, {
+				"text": "could you please schedule an meeting with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 36,
+						"entity": "appointment",
+						"start": 29,
+						"value": "meeting"
+					}
+				]
+			}, {
+				"text": "can you book an appointment with doctor",
+				"intent": "create_apt",
+				"entities": [{
+						"end": 27,
+						"entity": "appointment",
+						"start": 16,
+						"value": "appointment"
+					}
+				]
+			},{
+				"text": "to dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "dentist"
+					}
+				]
+			}, {
+				"text": "to Dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Dermatologist"
+					}
+				]
+			}, {
+				"text": "with surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 5,
+						"value": "surgeon"
+					}
+				]
+			}, {
+				"text": "to Orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Orthopaedic"
+					}
+				]
+			}, {
+				"text": "with dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 5,
+						"value": "dentist"
+					}
+				]
+			}, {
+				"text": "with Paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Paediatrician"
+					}
+				]
+			},{
+				"text": "dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "dentist"
+					}
+				]
+			}, {
+				"text": "to dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "dermatologist"
+					}
+				]
+			}, {
+				"text": "Surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Surgeon"
+					}
+				]
+			}, {
+				"text": "dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "dermatologist"
+					}
+				]
+			}, {
+				"text": "with ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 21,
+						"entity": "specialist",
+						"start": 5,
+						"value": "ophthalmologists"
+					}
+				]
+			}, {
+				"text": "cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 0,
+						"value": "cardiologist"
+					}
+				]
+			}, {
+				"text": "to Ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Ophthalmologists"
+					}
+				]
+			}, {
+				"text": "with Dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Dentist"
+					}
+				]
+			}, {
+				"text": "Orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 11,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Orthopaedic"
+					}
+				]
+			}, {
+				"text": "with physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 5,
+						"value": "physician"
+					}
+				]
+			}, {
+				"text": "to Paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Paediatrician"
+					}
+				]
+			}, {
+				"text": "Dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Dentist"
+					}
+				]
+			}, {
+				"text": "Gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Gynaecologists"
+					}
+				]
+			}, {
+				"text": "paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "paediatrician"
+					}
+				]
+			}, {
+				"text": "Physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 9,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Physician"
+					}
+				]
+			}, {
+				"text": "to gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 20,
+						"entity": "specialist",
+						"start": 3,
+						"value": "gastroentrologist"
+					}
+				]
+			}, {
+				"text": "to orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 3,
+						"value": "orthopaedic"
+					}
+				]
+			}, {
+				"text": "surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "surgeon"
+					}
+				]
+			}, {
+				"text": "with Orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Orthopaedic"
+					}
+				]
+			}, {
+				"text": "ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 0,
+						"value": "ophthalmologists"
+					}
+				]
+			}, {
+				"text": "Paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Paediatrician"
+					}
+				]
+			}, {
+				"text": "to Gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 20,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Gastroentrologist"
+					}
+				]
+			}, {
+				"text": "Gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Gastroentrologist"
+					}
+				]
+			}, {
+				"text": "gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 0,
+						"value": "gastroentrologist"
+					}
+				]
+			}, {
+				"text": "physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 9,
+						"entity": "specialist",
+						"start": 0,
+						"value": "physician"
+					}
+				]
+			}, {
+				"text": "gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 0,
+						"value": "gynaecologists"
+					}
+				]
+			}, {
+				"text": "with ENT",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 8,
+						"entity": "specialist",
+						"start": 5,
+						"value": "ENT"
+					}
+				]
+			}, {
+				"text": "to Physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Physician"
+					}
+				]
+			}, {
+				"text": "with Surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Surgeon"
+					}
+				]
+			}, {
+				"text": "Cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Cardiologist"
+					}
+				]
+			}, {
+				"text": "with Ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 21,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Ophthalmologists"
+					}
+				]
+			}, {
+				"text": "with gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 5,
+						"value": "gynaecologists"
+					}
+				]
+			}, {
+				"text": "ent",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 3,
+						"entity": "specialist",
+						"start": 0,
+						"value": "ent"
+					}
+				]
+			}, {
+				"text": "to ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 3,
+						"value": "ophthalmologists"
+					}
+				]
+			}, {
+				"text": "ENT",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 3,
+						"entity": "specialist",
+						"start": 0,
+						"value": "ENT"
+					}
+				]
+			}, {
+				"text": "with paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "paediatrician"
+					}
+				]
+			}, {
+				"text": "to surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "surgeon"
+					}
+				]
+			}, {
+				"text": "with cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 5,
+						"value": "cardiologist"
+					}
+				]
+			}, {
+				"text": "orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 11,
+						"entity": "specialist",
+						"start": 0,
+						"value": "orthopaedic"
+					}
+				]
+			}, {
+				"text": "Ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Ophthalmologists"
+					}
+				]
+			}, {
+				"text": "with Physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Physician"
+					}
+				]
+			}, {
+				"text": "Dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Dermatologist"
+					}
+				]
+			}, {
+				"text": "with Gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Gynaecologists"
+					}
+				]
+			}, {
+				"text": "to cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 15,
+						"entity": "specialist",
+						"start": 3,
+						"value": "cardiologist"
+					}
+				]
+			}, {
+				"text": "with ent",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 8,
+						"entity": "specialist",
+						"start": 5,
+						"value": "ent"
+					}
+				]
+			}, {
+				"text": "with Gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 22,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Gastroentrologist"
+					}
+				]
+			}, {
+				"text": "to Cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 15,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Cardiologist"
+					}
+				]
+			}, {
+				"text": "to ENT",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 6,
+						"entity": "specialist",
+						"start": 3,
+						"value": "ENT"
+					}
+				]
+			}, {
+				"text": "with Cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Cardiologist"
+					}
+				]
+			}, {
+				"text": "with orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 5,
+						"value": "orthopaedic"
+					}
+				]
+			}, {
+				"text": "to ent",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 6,
+						"entity": "specialist",
+						"start": 3,
+						"value": "ent"
+					}
+				]
+			}, {
+				"text": "to Gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Gynaecologists"
+					}
+				]
+			}, {
+				"text": "to physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 3,
+						"value": "physician"
+					}
+				]
+			}, {
+				"text": "with gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 22,
+						"entity": "specialist",
+						"start": 5,
+						"value": "gastroentrologist"
+					}
+				]
+			}, {
+				"text": "with dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "dermatologist"
+					}
+				]
+			}, {
+				"text": "to Dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Dentist"
+					}
+				]
+			}, {
+				"text": "to Surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Surgeon"
+					}
+				]
+			}, {
+				"text": "to paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "paediatrician"
+					}
+				]
+			}, {
+				"text": "to gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 3,
+						"value": "gynaecologists"
+					}
+				]
+			}, {
+				"text": "with Dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Dermatologist"
+					}
+				]
+			}
+    ]
+  }
+}

@@ -1,0 +1,4514 @@
+﻿{
+	"rasa_nlu_data": {
+		"common_examples": [
+			{
+				"text": "ello",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "good day",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "greetings",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "are you there",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "howdy",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "sup",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "wassup",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "good morning",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "good afternoon",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hi",
+				"intent": "greeting",
+				"entities": []
+			},{
+				"text": "are you around?",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "aloha",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hello",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hiya",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "morning",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hey",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "ay boi",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "whatsup",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "are you around?",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "aloha",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hello",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hiya",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "morning",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "hey",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "ay boi",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "whatsup",
+				"intent": "greeting",
+				"entities": []
+			}, {
+				"text": "yo Mr. Bot",
+				"intent": "greeting",
+				"entities": []
+			},{
+				"text": "affirmative affirmative affirmative si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes affirmative affirmative yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok correcto yes to that right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yes to that yes to that ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yes ok yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes si correct correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir correcto right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok yes yep yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si right right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes right correct yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep right correcto affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes allright right yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright correct yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes correcto ok affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct correcto yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep si yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep correcto correcto right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright yep correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir yes yes to that allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright right right yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yes yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto yes sir correcto right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok right ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto yep yes right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright want that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right ok right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si yes to that correct yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes right yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct correcto correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative correcto ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that affirmative yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok ok yes to that yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yes sir correct yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct ok correcto yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative affirmative ok affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto ok yes right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative yes to that yep yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok affirmative correct correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative ok right right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto yes to that correcto allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto yes to that yes yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes allright yep ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative affirmative yes sir right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si yep affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep affirmative si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes correct ok yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative yes sir yep right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok correcto yep allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that affirmative ok correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct ok allright yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yes to that yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si ok right correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes right yes sir right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that correcto yep si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes correcto correcto right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right allright yes correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct affirmative right right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yes correct allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct right correct allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative correct right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that correcto affirmative correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yes sir yes to that allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that correct yes yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct correct affirmative yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok ok allright right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok yep yes to that ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that allright ok right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that correct correct correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes allright yes yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright correct yes to that allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yep yes sir right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative affirmative correcto correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright yes to that correct correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct correcto ok affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si right yes to that right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright yes right right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right si allright yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep affirmative ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si yes to that yep ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right right yes yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep correct yep ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct affirmative right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto yes sir yes sir yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes correct yes yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct affirmative correct yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright allright yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep yes sir correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right right ok ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct si right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok ok yes to that yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep correcto correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep correcto yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto affirmative correcto allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir correcto yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative yep affirmative right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yes to that right si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yes sir correcto",
+				"intent": "affirm",
+				"entities": []
+			},{
+				"text": "yes sir want that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "you're goddamn correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes that is yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir si correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "it is fine",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "you got that yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep correct si yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes allright right correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir yep si right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yep yep allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir yes sir yep yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir correct right ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that si allright right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok yes allright si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto yep affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok ok right si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative yep correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right allright correct ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yes sir yes to that ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that correcto yes si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir yes right right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right correct affirmative yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep right correct yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir ok correct right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yes right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes right yes sir ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto affirmative yes to that right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes correcto yes to that affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep right ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right si allright ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right affirmative right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that si correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right correcto yep right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yes to that yep allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right right correcto si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right si right si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir yes sir yes correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok yes to that affirmative yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative correcto si yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto right ok ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yes to that affirmative right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright allright correct yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct allright allright right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yes to that right yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes ok yes sir correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that right right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir right yes to that yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right right yes to that right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yes sir correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yep si correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that right yes right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright affirmative right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative yes sir right si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right affirmative yep correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright yes to that si yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct correct yes sir si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto ok yes sir yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that yes to that right yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok right right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir allright yes allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right allright right correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright ok yes sir ok",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct right yep yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that si right correcto",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct allright allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok correct yep yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right si affirmative yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yes to that allright right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that yep yes to that si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si right yep right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes allright si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that yes to that allright affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si affirmative correct allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes to that si affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto si affirmative affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok right correct right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes affirmative ok allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "affirmative allright right yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right correcto yes to that yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yep yes sir yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yes to that yep correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright si correct yes sir",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correct yep si right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "correcto si yes si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok affirmative right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep correcto ok yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep si yep yes",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yep right right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "ok right yep yep",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "si si yes to that affirmative",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir right correcto si",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "right yes sir right",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yep yes to that ok correct",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes sir affirmative right allright",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "yes yes sir affirmative yes to that",
+				"intent": "affirm",
+				"entities": []
+			}, {
+				"text": "allright yes sir allright affirmative",
+				"intent": "affirm",
+				"entities": []
+			},{
+				"text": "talk to you soon ttyl bye farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao farewell chao heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao adios talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau goodbye goodbye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later chau adios chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios adieu chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell chao chau leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out goodbye gtg gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "farewell ttyl going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chau gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chau chao going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu bye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao chau adios talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu gtg gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl goodbye chau got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chau gtg goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later farewell goodbye farewell going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving gtg chau chau talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon goodbye gtg ttyl going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg bye adios im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao ttyl adios going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau bye goodbye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later chao ttyl chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chau ttyl goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go bye gtg goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving farewell gtg adieu going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu chao gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go ttyl goodbye adieu im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon farewell chao farewell have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out gtg bye ttyl leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu chau bye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out goodbye goodbye chau talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later ttyl bye adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu adieu ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving bye bye bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon farewell adios adieu heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao adios heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao farewell chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye goodbye goodbye",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu adieu leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye gtg gtg got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "bye adieu adios leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios gtg chau got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now chau goodbye ttyl",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go farewell goodbye ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl gtg adieu",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau ttyl chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chao adios farewell leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later ttyl farewell chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye chao goodbye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye goodbye goodbye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell gtg gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out ttyl adieu ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving bye farewell chau im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao farewell adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios adios gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "bye goodbye bye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg chao ttyl going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg chao farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later bye chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios chau farewell talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go gtg adios chao going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios gtg chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye chao farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chau chau ttyl have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now gtg adieu bye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later bye farewell adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon gtg chao adieu",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go adieu farewell adios got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon goodbye talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now ttyl chao chau talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg bye adieu going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu goodbye chao got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chao ttyl adios leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios gtg adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon bye chao chao heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu ttyl adios talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now ttyl adieu chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg bye bye have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "chao bye goodbye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out bye adios gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adios adios ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving chau farewell chao talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu gtg farewell going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out ttyl bye adieu talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now ttyl chao ttyl",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu bye adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adios adios chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out goodbye goodbye talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out farewell ttyl adieu have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go gtg ttyl adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go bye adios bye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out goodbye bye farewell heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu adieu goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu adios farewell got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			},{
+				"text": "heading out goodbye chao chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl farewell chao heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl farewell chau heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adieu adieu farewell talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adios adios goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go gtg ttyl chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios farewell goodbye heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adieu adios goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios adios farewell got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving chau chao chau going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out goodbye adios chau talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu farewell gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adios ttyl farewell talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later farewell ttyl ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adieu adieu farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios ttyl farewell got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau adios ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving goodbye ttyl adios got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go gtg ttyl ttyl have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go ttyl gtg farewell going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu chao goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios chao goodbye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu gtg talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye adios ttyl have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "gtg ttyl adieu talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving goodbye adieu farewell heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving goodbye chao have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later farewell chau farewell leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios adieu goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "ttyl gtg goodbye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving farewell ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving bye adios adios leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go adieu gtg chau talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go gtg bye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios chau adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao bye farewell talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adieu gtg goodbye have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu goodbye bye",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out gtg chao",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios adieu ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adieu farewell ttyl got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios bye gtg heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg ttyl adieu talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now goodbye chao adios talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adieu adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later adios chao gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving farewell chau ttyl talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adios farewell adieu got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out gtg adios goodbye going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon goodbye adieu chao leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adios chao gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adios farewell gtg leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios bye ttyl heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving chau farewell chau got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon gtg ttyl goodbye have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye farewell farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out ttyl chao talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go bye gtg chao",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau chau ttyl im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adios adieu gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go adieu gtg ttyl talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios farewell chau im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later gtg chao ttyl",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go bye ttyl chau going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go gtg chau farewell",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out adieu adios talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chau ttyl leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu ttyl got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving adios gtg bye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell chau farewell leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out adieu farewell chau have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon adieu adios gtg have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out chau goodbye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao bye bye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye adieu bye leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go goodbye adios going out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adios ttyl bye got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out chau gtg gtg talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now gtg farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out farewell adieu talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "going out goodbye goodbye chao talk to you later",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go ttyl adios heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu chau bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon farewell ttyl adios have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "heading out gtg bye chau have to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "got to go chao ttyl bye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "leaving gtg ttyl heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now farewell gtg chao im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now bye adieu chau heading out",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you later goodbye adios farewell im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go adieu gtg adios talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon chau goodbye ttyl leaving",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "adios chau goodbye talk to you soon",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go chao gtg bye im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "talk to you soon bye bye adios got to go",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "have to go adieu bye gtg im leaving now",
+				"intent": "bye",
+				"entities": []
+			}, {
+				"text": "im leaving now adieu ttyl chau im leaving now",
+				"intent": "bye",
+				"entities": []
+			},{
+				"text": "Dharwar",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 7,
+						"entity": "city",
+						"start": 0,
+						"value": "Dharwar"
+					}
+				]
+			}, {
+				"text": "at Dharwad",
+				"intent": "confirm_city",
+				"entities": [{
+						"end": 10,
+						"entity": "city",
+						"start": 3,
+						"value": "Dharwad"
+					}
+		]
+	},{
+				"text": "Saturday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 8,
+						"entity": "date",
+						"start": 0,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "on Tuesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 10,
+						"entity": "date",
+						"start": 3,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "on Wednesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 12,
+						"entity": "date",
+						"start": 3,
+						"value": "Wednesday"
+					}
+				]
+			}, {
+				"text": "Tuesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 7,
+						"entity": "date",
+						"start": 0,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "Wednesday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 0,
+						"value": "Wednesday"
+					}
+				]
+			}, {
+				"text": "Sunday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 6,
+						"entity": "date",
+						"start": 0,
+						"value": "Sunday"
+					}
+				]
+			}, {
+				"text": "on Monday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Monday"
+					}
+				]
+			},{
+				"text": "on Saturday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 11,
+						"entity": "date",
+						"start": 3,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "Monday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 6,
+						"entity": "date",
+						"start": 0,
+						"value": "Monday"
+					}
+				]
+			}, {
+				"text": "Friday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 6,
+						"entity": "date",
+						"start": 0,
+						"value": "Friday"
+					}
+				]
+			}, {
+				"text": "on Friday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Friday"
+					}
+				]
+			}, {
+				"text": "on Thursday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 11,
+						"entity": "date",
+						"start": 3,
+						"value": "Thursday"
+					}
+				]
+			}, {
+				"text": "on Sunday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 9,
+						"entity": "date",
+						"start": 3,
+						"value": "Sunday"
+					}
+				]
+			}, {
+				"text": "Thursday",
+				"intent": "confirm_date",
+				"entities": [{
+						"end": 8,
+						"entity": "date",
+						"start": 0,
+						"value": "Thursday"
+					}
+				]
+			},{
+				"text": "with Dr.R Krishna prasad on Tuesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 24,
+						"entity": "dr",
+						"start": 5,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 28,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "vasan Eye Care hospital on Saturday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "vasan Eye Care hospital"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 27,
+						"value": "Saturday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Saturday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 26,
+						"entity": "date",
+						"start": 18,
+						"value": "Saturday"
+					}, {
+						"end": 38,
+						"entity": "time",
+						"start": 30,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Monday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 24,
+						"entity": "date",
+						"start": 18,
+						"value": "Monday"
+					}, {
+						"end": 36,
+						"entity": "time",
+						"start": 28,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Neeta K Sambrani on Tuesday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 23,
+						"value": "Tuesday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Manvi Multispeciality Hospital on Monday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 33,
+						"entity": "dr",
+						"start": 3,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 43,
+						"entity": "date",
+						"start": 37,
+						"value": "Monday"
+					}, {
+						"end": 55,
+						"entity": "time",
+						"start": 47,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Girish K Nadiger on Friday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Friday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "Jaya Priya Hospital on Saturday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Saturday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Neeta K Sambrani on Sunday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Sunday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "Dr.R Krishna prasad on Saturday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Saturday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "Jaya Priya Hospital on Saturday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "Jaya Priya Hospital on Friday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Friday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Neeta K Sambrani on Saturday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Saturday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "to Jaya Priya Hospital on Tuesday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. Sanjeev Kulkarni on Friday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 27,
+						"value": "Friday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Neeta K Sambrani on Tuesday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. A B Jadhav on Wednesday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 21,
+						"value": "Wednesday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to M M Joshi Eye Institute on Friday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 26,
+						"entity": "dr",
+						"start": 3,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 36,
+						"entity": "date",
+						"start": 30,
+						"value": "Friday"
+					}, {
+						"end": 48,
+						"entity": "time",
+						"start": 40,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Wednesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 27,
+						"entity": "date",
+						"start": 18,
+						"value": "Wednesday"
+					}
+				]
+			}, {
+				"text": "Dr. Sanjeev Kulkarni on Wednesday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 24,
+						"value": "Wednesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Neeta K Sambrani on Friday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Friday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. Sanjeev Kulkarni on Tuesday at 09:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 34,
+						"entity": "date",
+						"start": 27,
+						"value": "Tuesday"
+					}, {
+						"end": 46,
+						"entity": "time",
+						"start": 38,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "M M Joshi Eye Institute on Sunday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 27,
+						"value": "Sunday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Neeta K Sambrani on Friday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Friday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Neeta K Sambrani on Wednesday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 26,
+						"value": "Wednesday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "Dr.R Krishna prasad on Thursday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Thursday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "with M M Joshi Eye Institute on Saturday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 28,
+						"entity": "dr",
+						"start": 5,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 40,
+						"entity": "date",
+						"start": 32,
+						"value": "Saturday"
+					}
+				]
+			}, {
+				"text": "vasan Eye Care hospital on Tuesday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "vasan Eye Care hospital"
+					}, {
+						"end": 34,
+						"entity": "date",
+						"start": 27,
+						"value": "Tuesday"
+					}, {
+						"end": 46,
+						"entity": "time",
+						"start": 38,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Monday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 24,
+						"entity": "date",
+						"start": 18,
+						"value": "Monday"
+					}, {
+						"end": 36,
+						"entity": "time",
+						"start": 28,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "Dr.Girish K Nadiger on Friday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Friday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Jaya Priya Hospital on Wednesday at 09:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 26,
+						"value": "Wednesday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr.Girish K Nadiger on Monday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Monday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "M M Joshi Eye Institute on Sunday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 27,
+						"value": "Sunday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr.Girish K Nadiger on Saturday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 34,
+						"entity": "date",
+						"start": 26,
+						"value": "Saturday"
+					}, {
+						"end": 46,
+						"entity": "time",
+						"start": 38,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. Tavargeri S k on Monday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 24,
+						"value": "Monday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "with Dr. Tavargeri S k on Sunday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 5,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Sunday"
+					}
+				]
+			}, {
+				"text": "M M Joshi Eye Institute on Tuesday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 34,
+						"entity": "date",
+						"start": 27,
+						"value": "Tuesday"
+					}, {
+						"end": 46,
+						"entity": "time",
+						"start": 38,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "to Jaya Priya Hospital on Tuesday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. Sanjeev Kulkarni on Friday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 24,
+						"value": "Friday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr.Girish K Nadiger on Tuesday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Wednesday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 27,
+						"entity": "date",
+						"start": 18,
+						"value": "Wednesday"
+					}, {
+						"end": 39,
+						"entity": "time",
+						"start": 31,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Neeta K Sambrani on Thursday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 34,
+						"entity": "date",
+						"start": 26,
+						"value": "Thursday"
+					}, {
+						"end": 46,
+						"entity": "time",
+						"start": 38,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr.R Krishna prasad on Sunday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Sunday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. B R Jayasudha on Wednesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. B R Jayasudha"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 21,
+						"value": "Wednesday"
+					}
+				]
+			}, {
+				"text": "to Dr. B R Jayasudha on Friday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. B R Jayasudha"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 24,
+						"value": "Friday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "to Jaya Priya Hospital on Monday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Monday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. B R Jayasudha on Thursday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. B R Jayasudha"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 24,
+						"value": "Thursday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Girish K Nadiger on Tuesday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr.Neeta K Sambrani on Tuesday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.R Krishna prasad on Monday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Monday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. Tavargeri S k on Thursday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 24,
+						"value": "Thursday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. A B Jadhav on Saturday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 21,
+						"value": "Saturday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "Jaya Priya Hospital on Monday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Monday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "with Jaya Priya Hospital on Tuesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 24,
+						"entity": "dr",
+						"start": 5,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 28,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "to Dr.R Krishna prasad on Monday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Monday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. Tavargeri S k on Wednesday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 24,
+						"value": "Wednesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. Sanjeev Kulkarni on Sunday at 09:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 27,
+						"value": "Sunday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "to vasan Eye Care hospital on Monday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 26,
+						"entity": "dr",
+						"start": 3,
+						"value": "vasan Eye Care hospital"
+					}, {
+						"end": 36,
+						"entity": "date",
+						"start": 30,
+						"value": "Monday"
+					}, {
+						"end": 48,
+						"entity": "time",
+						"start": 40,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "vasan Eye Care hospital on Wednesday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "vasan Eye Care hospital"
+					}, {
+						"end": 36,
+						"entity": "date",
+						"start": 27,
+						"value": "Wednesday"
+					}, {
+						"end": 48,
+						"entity": "time",
+						"start": 40,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Neeta K Sambrani on Wednesday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 26,
+						"value": "Wednesday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. B R Jayasudha on Tuesday at 09:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. B R Jayasudha"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 24,
+						"value": "Tuesday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "to Jaya Priya Hospital on Tuesday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "Manvi Multispeciality Hospital on Tuesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 30,
+						"entity": "dr",
+						"start": 0,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 41,
+						"entity": "date",
+						"start": 34,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "to vasan Eye Care hospital on Friday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 26,
+						"entity": "dr",
+						"start": 3,
+						"value": "vasan Eye Care hospital"
+					}, {
+						"end": 36,
+						"entity": "date",
+						"start": 30,
+						"value": "Friday"
+					}, {
+						"end": 48,
+						"entity": "time",
+						"start": 40,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Neeta K Sambrani on Tuesday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 23,
+						"value": "Tuesday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to vasan Eye Care hospital on Thursday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 26,
+						"entity": "dr",
+						"start": 3,
+						"value": "vasan Eye Care hospital"
+					}, {
+						"end": 38,
+						"entity": "date",
+						"start": 30,
+						"value": "Thursday"
+					}, {
+						"end": 50,
+						"entity": "time",
+						"start": 42,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Girish K Nadiger on Monday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Monday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "Manvi Multispeciality Hospital on Wednesday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 30,
+						"entity": "dr",
+						"start": 0,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 43,
+						"entity": "date",
+						"start": 34,
+						"value": "Wednesday"
+					}, {
+						"end": 55,
+						"entity": "time",
+						"start": 47,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. Tavargeri S k on Thursday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 21,
+						"value": "Thursday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. Sanjeev Kulkarni on Friday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 27,
+						"value": "Friday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. B R Jayasudha on Wednesday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. B R Jayasudha"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 21,
+						"value": "Wednesday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "Dr.Girish K Nadiger on Tuesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 23,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "Dr.Girish K Nadiger on Saturday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Saturday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Tuesday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 25,
+						"entity": "date",
+						"start": 18,
+						"value": "Tuesday"
+					}, {
+						"end": 37,
+						"entity": "time",
+						"start": 29,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "to M M Joshi Eye Institute on Thursday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 26,
+						"entity": "dr",
+						"start": 3,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 38,
+						"entity": "date",
+						"start": 30,
+						"value": "Thursday"
+					}, {
+						"end": 50,
+						"entity": "time",
+						"start": 42,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "to Jaya Priya Hospital on Tuesday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 26,
+						"value": "Tuesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Wednesday at 09:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 27,
+						"entity": "date",
+						"start": 18,
+						"value": "Wednesday"
+					}, {
+						"end": 39,
+						"entity": "time",
+						"start": 31,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. Sanjeev Kulkarni on Saturday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Sanjeev Kulkarni"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 27,
+						"value": "Saturday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Neeta K Sambrani on Thursday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Neeta K Sambrani"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Thursday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.R Krishna prasad on Monday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 32,
+						"entity": "date",
+						"start": 26,
+						"value": "Monday"
+					}, {
+						"end": 44,
+						"entity": "time",
+						"start": 36,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "with Manvi Multispeciality Hospital on Friday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 35,
+						"entity": "dr",
+						"start": 5,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 45,
+						"entity": "date",
+						"start": 39,
+						"value": "Friday"
+					}
+				]
+			}, {
+				"text": "Dr. Tavargeri S k on Tuesday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 28,
+						"entity": "date",
+						"start": 21,
+						"value": "Tuesday"
+					}, {
+						"end": 40,
+						"entity": "time",
+						"start": 32,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr. Tavargeri S k on Saturday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 21,
+						"value": "Saturday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr.Girish K Nadiger on Wednesday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 26,
+						"value": "Wednesday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "Dr. A B Jadhav on Monday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 14,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 24,
+						"entity": "date",
+						"start": 18,
+						"value": "Monday"
+					}, {
+						"end": 36,
+						"entity": "time",
+						"start": 28,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "M M Joshi Eye Institute on Saturday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 23,
+						"entity": "dr",
+						"start": 0,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 35,
+						"entity": "date",
+						"start": 27,
+						"value": "Saturday"
+					}, {
+						"end": 47,
+						"entity": "time",
+						"start": 39,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. A B Jadhav on Thursday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 21,
+						"value": "Thursday"
+					}, {
+						"end": 41,
+						"entity": "time",
+						"start": 33,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "Manvi Multispeciality Hospital on Tuesday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 30,
+						"entity": "dr",
+						"start": 0,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 41,
+						"entity": "date",
+						"start": 34,
+						"value": "Tuesday"
+					}, {
+						"end": 53,
+						"entity": "time",
+						"start": 45,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. A B Jadhav on Monday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 17,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. A B Jadhav"
+					}, {
+						"end": 27,
+						"entity": "date",
+						"start": 21,
+						"value": "Monday"
+					}, {
+						"end": 39,
+						"entity": "time",
+						"start": 31,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "with Manvi Multispeciality Hospital on Tuesday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 35,
+						"entity": "dr",
+						"start": 5,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 46,
+						"entity": "date",
+						"start": 39,
+						"value": "Tuesday"
+					}
+				]
+			}, {
+				"text": "to Manvi Multispeciality Hospital on Sunday at 07:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 33,
+						"entity": "dr",
+						"start": 3,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 43,
+						"entity": "date",
+						"start": 37,
+						"value": "Sunday"
+					}, {
+						"end": 55,
+						"entity": "time",
+						"start": 47,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "Manvi Multispeciality Hospital on Saturday at 10:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 30,
+						"entity": "dr",
+						"start": 0,
+						"value": "Manvi Multispeciality Hospital"
+					}, {
+						"end": 42,
+						"entity": "date",
+						"start": 34,
+						"value": "Saturday"
+					}, {
+						"end": 54,
+						"entity": "time",
+						"start": 46,
+						"value": "10:00 am"
+					}
+				]
+			}, {
+				"text": "Jaya Priya Hospital on Tuesday at 09:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Jaya Priya Hospital"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 23,
+						"value": "Tuesday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "to Dr. Tavargeri S k on Friday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 30,
+						"entity": "date",
+						"start": 24,
+						"value": "Friday"
+					}, {
+						"end": 42,
+						"entity": "time",
+						"start": 34,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr. B R Jayasudha on Wednesday at 08:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. B R Jayasudha"
+					}, {
+						"end": 33,
+						"entity": "date",
+						"start": 24,
+						"value": "Wednesday"
+					}, {
+						"end": 45,
+						"entity": "time",
+						"start": 37,
+						"value": "08:00 pm"
+					}
+				]
+			}, {
+				"text": "to M M Joshi Eye Institute on Sunday at 06:00 pm",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 26,
+						"entity": "dr",
+						"start": 3,
+						"value": "M M Joshi Eye Institute"
+					}, {
+						"end": 36,
+						"entity": "date",
+						"start": 30,
+						"value": "Sunday"
+					}, {
+						"end": 48,
+						"entity": "time",
+						"start": 40,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "Dr.Girish K Nadiger on Sunday",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.Girish K Nadiger"
+					}, {
+						"end": 29,
+						"entity": "date",
+						"start": 23,
+						"value": "Sunday"
+					}
+				]
+			}, {
+				"text": "to Dr. Tavargeri S k on Tuesday at 12:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 20,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr. Tavargeri S k"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 24,
+						"value": "Tuesday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "Dr.R Krishna prasad on Saturday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 19,
+						"entity": "dr",
+						"start": 0,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 31,
+						"entity": "date",
+						"start": 23,
+						"value": "Saturday"
+					}, {
+						"end": 43,
+						"entity": "time",
+						"start": 35,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "to Dr.R Krishna prasad on Saturday at 11:00 am",
+				"intent": "confirm_dr",
+				"entities": [{
+						"end": 22,
+						"entity": "dr",
+						"start": 3,
+						"value": "Dr.R Krishna prasad"
+					}, {
+						"end": 34,
+						"entity": "date",
+						"start": 26,
+						"value": "Saturday"
+					}, {
+						"end": 46,
+						"entity": "time",
+						"start": 38,
+						"value": "11:00 am"
+					}
+				]
+			},{
+				"text": "12:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "07:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "07:00 pm"
+					}
+				]
+			}, {
+				"text": "09:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "09:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "09:00 pm"
+					}
+				]
+			}, {
+				"text": "at 09:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "09:00 am"
+					}
+				]
+			}, {
+				"text": "at 12:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "12:00 am"
+					}
+				]
+			}, {
+				"text": "11:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "11:00 am"
+					}
+				]
+			}, {
+				"text": "at 01:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 11,
+						"entity": "time",
+						"start": 3,
+						"value": "01:00 pm"
+					}
+				]
+			}, {
+				"text": "06:00 pm",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "06:00 pm"
+					}
+				]
+			}, {
+				"text": "10:00 am",
+				"intent": "confirm_time",
+				"entities": [{
+						"end": 8,
+						"entity": "time",
+						"start": 0,
+						"value": "10:00 am"
+					}
+				]
+			},{
+				"text": "dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "dentist"
+					}
+				]
+			}, {
+				"text": "to dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "dermatologist"
+					}
+				]
+			}, {
+				"text": "Surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Surgeon"
+					}
+				]
+			}, {
+				"text": "dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "dermatologist"
+					}
+				]
+			}, {
+				"text": "with ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 21,
+						"entity": "specialist",
+						"start": 5,
+						"value": "ophthalmologists"
+					}
+				]
+			}, {
+				"text": "cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 0,
+						"value": "cardiologist"
+					}
+				]
+			}, {
+				"text": "to Ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Ophthalmologists"
+					}
+				]
+			}, {
+				"text": "with Dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Dentist"
+					}
+				]
+			}, {
+				"text": "Orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 11,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Orthopaedic"
+					}
+				]
+			}, {
+				"text": "with physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 5,
+						"value": "physician"
+					}
+				]
+			}, {
+				"text": "to Paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Paediatrician"
+					}
+				]
+			}, {
+				"text": "Dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Dentist"
+					}
+				]
+			}, {
+				"text": "Gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Gynaecologists"
+					}
+				]
+			}, {
+				"text": "paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "paediatrician"
+					}
+				]
+			}, {
+				"text": "Physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 9,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Physician"
+					}
+				]
+			}, {
+				"text": "to gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 20,
+						"entity": "specialist",
+						"start": 3,
+						"value": "gastroentrologist"
+					}
+				]
+			}, {
+				"text": "to orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 3,
+						"value": "orthopaedic"
+					}
+				]
+			}, {
+				"text": "surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 7,
+						"entity": "specialist",
+						"start": 0,
+						"value": "surgeon"
+					}
+				]
+			}, {
+				"text": "with Orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Orthopaedic"
+					}
+				]
+			}, {
+				"text": "ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 0,
+						"value": "ophthalmologists"
+					}
+				]
+			}, {
+				"text": "Paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Paediatrician"
+					}
+				]
+			}, {
+				"text": "to Gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 20,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Gastroentrologist"
+					}
+				]
+			}, {
+				"text": "Gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Gastroentrologist"
+					}
+				]
+			}, {
+				"text": "gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 0,
+						"value": "gastroentrologist"
+					}
+				]
+			}, {
+				"text": "physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 9,
+						"entity": "specialist",
+						"start": 0,
+						"value": "physician"
+					}
+				]
+			}, {
+				"text": "gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 0,
+						"value": "gynaecologists"
+					}
+				]
+			}, {
+				"text": "with ENT",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 8,
+						"entity": "specialist",
+						"start": 5,
+						"value": "ENT"
+					}
+				]
+			}, {
+				"text": "to Physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Physician"
+					}
+				]
+			}, {
+				"text": "with Surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Surgeon"
+					}
+				]
+			}, {
+				"text": "Cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Cardiologist"
+					}
+				]
+			}, {
+				"text": "with Ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 21,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Ophthalmologists"
+					}
+				]
+			}, {
+				"text": "with gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 5,
+						"value": "gynaecologists"
+					}
+				]
+			}, {
+				"text": "ent",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 3,
+						"entity": "specialist",
+						"start": 0,
+						"value": "ent"
+					}
+				]
+			}, {
+				"text": "to ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 3,
+						"value": "ophthalmologists"
+					}
+				]
+			}, {
+				"text": "ENT",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 3,
+						"entity": "specialist",
+						"start": 0,
+						"value": "ENT"
+					}
+				]
+			}, {
+				"text": "with paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "paediatrician"
+					}
+				]
+			}, {
+				"text": "to surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "surgeon"
+					}
+				]
+			}, {
+				"text": "with cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 5,
+						"value": "cardiologist"
+					}
+				]
+			}, {
+				"text": "orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 11,
+						"entity": "specialist",
+						"start": 0,
+						"value": "orthopaedic"
+					}
+				]
+			}, {
+				"text": "Ophthalmologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Ophthalmologists"
+					}
+				]
+			}, {
+				"text": "with Physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 14,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Physician"
+					}
+				]
+			}, {
+				"text": "Dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 13,
+						"entity": "specialist",
+						"start": 0,
+						"value": "Dermatologist"
+					}
+				]
+			}, {
+				"text": "with Gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 19,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Gynaecologists"
+					}
+				]
+			}, {
+				"text": "to cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 15,
+						"entity": "specialist",
+						"start": 3,
+						"value": "cardiologist"
+					}
+				]
+			}, {
+				"text": "with ent",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 8,
+						"entity": "specialist",
+						"start": 5,
+						"value": "ent"
+					}
+				]
+			}, {
+				"text": "with Gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 22,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Gastroentrologist"
+					}
+				]
+			}, {
+				"text": "to Cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 15,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Cardiologist"
+					}
+				]
+			}, {
+				"text": "to ENT",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 6,
+						"entity": "specialist",
+						"start": 3,
+						"value": "ENT"
+					}
+				]
+			}, {
+				"text": "with Cardiologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Cardiologist"
+					}
+				]
+			}, {
+				"text": "with orthopaedic",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 5,
+						"value": "orthopaedic"
+					}
+				]
+			}, {
+				"text": "to ent",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 6,
+						"entity": "specialist",
+						"start": 3,
+						"value": "ent"
+					}
+				]
+			}, {
+				"text": "to Gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Gynaecologists"
+					}
+				]
+			}, {
+				"text": "to physician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 12,
+						"entity": "specialist",
+						"start": 3,
+						"value": "physician"
+					}
+				]
+			}, {
+				"text": "with gastroentrologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 22,
+						"entity": "specialist",
+						"start": 5,
+						"value": "gastroentrologist"
+					}
+				]
+			}, {
+				"text": "with dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "dermatologist"
+					}
+				]
+			}, {
+				"text": "to Dentist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Dentist"
+					}
+				]
+			}, {
+				"text": "to Surgeon",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 10,
+						"entity": "specialist",
+						"start": 3,
+						"value": "Surgeon"
+					}
+				]
+			}, {
+				"text": "to paediatrician",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 16,
+						"entity": "specialist",
+						"start": 3,
+						"value": "paediatrician"
+					}
+				]
+			}, {
+				"text": "to gynaecologists",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 17,
+						"entity": "specialist",
+						"start": 3,
+						"value": "gynaecologists"
+					}
+				]
+			}, {
+				"text": "with Dermatologist",
+				"intent": "confirm_specialization",
+				"entities": [{
+						"end": 18,
+						"entity": "specialist",
+						"start": 5,
+						"value": "Dermatologist"
+					}
+				]
+			}
+}]
+}
