@@ -1,0 +1,62 @@
+intents:
+  - create_apt
+  - confirm_city
+  - confirm_specialization
+  - confirm_dr
+  - confirm_time
+  - greeting
+  - bye
+  - affirm
+
+slots:
+  city:
+    type: text
+  specialist:
+    type: text
+  date:
+    type: text
+  time:
+    type: text
+	dr:
+	type: text
+
+entities:
+  - dr
+  - date
+  - city
+  - time
+  - specialist
+
+actions:
+  - utter_greet
+  - utter_bye
+  - utter_ask_city
+  - utter_ask_specialization
+  - utter_ask_date
+  - utter_ask_time
+  - utter_doctor_details
+  - utter_confirmed
+
+
+templates:
+  utter_greet:
+    - "Hello, how can I help you?"
+    - "Hello, welcome to the Doctor Appointment Bot!"
+  utter_ask_city:
+    - "In which city would you like to book appointment Hubli  or Dharwar?"
+	- "Please choose a city, Hubli or Dharwar?"
+  utter_ask_specialization:
+    - "Which specialist are you looking for?"
+    - "Please mention your specialist or Specialization?"
+  utter_ask_date:
+    - "When do you want to schedule this appointment?"
+    - "Ok, for what day?"
+  utter_ask_time:
+    - "please select the time?"
+    - "Ok, for what time?"
+  utter_doctor_details:
+    - "Here i found similar results: {Name},{Specialization},{Address},{City},{Phone number},{Rating}"
+  utter_confirmed:
+    - "Got it! Your appointment to see Doctor {Name} is scheduled for {date}and {Time}."
+  utter_bye
+    - " My pleasure to help you"

@@ -1,0 +1,217 @@
+%[greeting]('training': '10', 'testing': '10')
+    ~[greet]
+
+%[bye]('training': '100', 'testing': '100')
+    ~[leaving?] ~[bye] ~[bye?] ~[bye?] ~[leaving?]
+    ~[leaving] ~[bye?]
+
+%[affirm]('training': '100', 'testing': '100')
+    ~[yes]
+    ~[yes] ~[yes?] ~[please?]
+    you got that ~[yes]
+    you're goddamn ~[yes]
+    ~[yes] ~[wantThat]
+    yes that is ~[yes] 
+    ~[yes] ~[yes?] ~[yes?] ~[yes?]
+    ~[wantThat]
+
+%[create_apt]('training': '100', 'testing': '100')
+    ~[please] ~[create] @[appointment] ~[with] ~[doctor]
+
+%[confirm_date]('training': '100', 'testing': '100')
+    ~[on?] @[date]
+
+%[confirm_city]('training': '100', 'testing': '100')
+    @[city]
+
+%[confirm_specialization]('training': '100', 'testing': '100')
+    ~[with?] @[specialist] 
+    ~[to?] @[specialist]
+    @[specialist]
+
+%[confirm_dr]('training': '100', 'testing': '100')
+    ~[with?] @[dr] ~[on] @[date]
+    ~[to?] @[dr] ~[on] @[date] ~[at] @[time]
+    
+
+%[confirm_time]('training': '100', 'testing': '100')
+    ~[at?] @[time]
+    
+
+~[greet]
+    hi
+    hello
+    hey
+    howdy
+    greetings
+    good morning
+    good afternoon
+    good day
+    are you there
+    morning
+    whatsup
+    wassup
+    sup
+    yo Mr. Bot
+    ay boi
+    are you around?
+    howdy
+    aloha
+    hiya
+    ello
+
+~[please]
+    could you please
+    please
+    want to
+    I'd like to
+    would you
+    can you
+
+~[create]
+    create an
+    create
+    make an
+    make
+    setup an
+    setup
+    set up an
+    setup    
+    schedule an
+    schedule
+    book an
+    book
+    request an
+    request
+
+~[appointment]
+    appointment
+    apt
+    apt.
+    meeting
+    consultation
+@[date]
+    Monday
+    Tuesday
+    Wednesday
+    Thursday
+    Friday
+    Saturday
+    Sunday
+    monday
+    tuesday
+    wednesday
+    thursday
+    friday
+    saturday
+    sunday
+
+~[bye]
+    bye
+    goodbye
+    ttyl
+    gtg
+    adios
+    farewell
+    adieu
+    chao
+    chau
+
+~[leaving]
+    leaving
+    talk to you soon
+    have to go
+    got to go
+    talk to you later
+    heading out
+    im leaving now
+    going out
+
+@[city]
+    Dharwar
+    Dharwad
+    Hubli
+    Hubballi
+
+@[specialist]
+    ophthalmologists
+    Ophthalmologists
+    Gynaecologists
+    gynaecologists
+    Physician
+    physician
+    Cardiologist
+    cardiologist
+    Gastroentrologist
+    gastroentrologist
+    Dermatologist
+    dermatologist
+    Orthopaedic
+    orthopaedic
+    Paediatrician
+    paediatrician
+    Surgeon
+    surgeon
+    Dentist
+    dentist
+    ENT
+    ent
+
+@[dr]
+    Dr.Girish K Nadiger
+    Dr.Neeta K Sambrani
+    Dr. A B Jadhav
+    Dr. Sanjeev Kulkarni 
+    Dr. B R Jayasudha 
+    M M Joshi Eye Institute
+    Dr. Tavargeri S k 
+    vasan Eye Care hospital
+    Dr.R Krishna prasad
+    Manvi Multispeciality Hospital
+    Jaya Priya Hospital 
+
+@[time]
+    09:00 am
+    09:00 pm
+    10:00 am
+    11:00 am
+    12:00 am
+    06:00 pm
+    07:00 pm
+    08:00 pm
+
+~[yes]
+    yes
+    right
+    affirmative
+    yes to that
+    correct
+    yep
+    yes sir
+    si
+    correcto
+    ok
+    right
+    allright
+
+~[wantThat]
+    i want that
+    i desire that
+    i agree
+    i want that
+    that is fine
+    that is correct
+    that is what i want
+    you understood me
+    that is right
+    that is what i mean
+    want that
+    im ok with that
+    ok its good
+    im good with that
+    ok its fine
+    is good
+    it is fine
+    im ok with this
+    im good with this
+
